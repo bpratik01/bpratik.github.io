@@ -1,7 +1,8 @@
 
 # Hey there! 👋 I'm Pratik Bokade
 
-![Profile Picture](Profile_pic.jpg)- **B.Tech Robotics and AI**
+![Profile Picture](Profile _pic.jpg)
+**B.Tech Robotics and AI**
 - **Location:** Nagpur, India
 - **Phone:** +91 7083230882
 - **Email:** pratikbokadework@gmail.com
