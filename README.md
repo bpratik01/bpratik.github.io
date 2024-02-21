@@ -7,7 +7,6 @@
 - **Email:** pratikbokadework@gmail.com
 - **GitHub:** [github.com/bpratik01](https://github.com/bpratik01)
 - **LinkedIn:** [Pratik Bokade](http://www.linkedin.com/in/pratik-bokade-b15466230)
-- **Languages:** English, Hindi (native)
 
 ---
 ## Objective
@@ -18,7 +17,7 @@ I’m Pratik Bokade, a third-year B.Tech student specializing in Robotics and Ar
 ## Skills 🛠️
 
 - **Languages:** Python, SQL, C
-- **Libraries:** Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn
+- **Libraries:** Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn, NLTK
 
 ---
 
