@@ -1,5 +1,5 @@
 title: Pratik Bokade
-logo: https://github.com/bpratik01/bpratik.github.io/blob/main/pic_pro.jpg
+logo: pic_pro.jpg
 #description: text below image
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
