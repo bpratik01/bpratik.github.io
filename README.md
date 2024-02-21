@@ -7,7 +7,7 @@
 - **Email:** pratikbokadework@gmail.com
 - **GitHub:** [github.com/bpratik01](https://github.com/bpratik01)
 - **LinkedIn:** [Pratik Bokade](http://www.linkedin.com/in/pratik-bokade-b15466230)
-- **X:**[pratik_csv][https://twitter.com/pratik_csv]
+- **X:** [pratik_csv][https://twitter.com/pratik_csv]
 
 ---
 ## Objective
