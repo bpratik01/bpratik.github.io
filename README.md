@@ -1,7 +1,7 @@
 
 # Hey there! 👋 I'm Pratik Bokade
 
-![Profile Picture](Profile _pic.jpg)
+![Profile Picture](https://github.com/bpratik01/bpratik.github.io/blob/main/Profile%20_pic.jpg)
 **B.Tech Robotics and AI**
 - **Location:** Nagpur, India
 - **Phone:** +91 7083230882
