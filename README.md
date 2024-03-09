@@ -33,6 +33,6 @@ I’m Pratik Bokade, a third-year B.Tech student specializing in Robotics and Ar
 - Built a Twitter Sentiment Analysis system utilizing Naive Bayes classifier.
 - Developed a Streamlit app for real-time sentiment analysis visualization.
 
-### University Marks Predicting Model 🎓
-- Created a predictive model to forecast university marks based on college-level exam scores.
-- Achieved exceptional accuracy with a Mean Squared Error (MSE) of 0.0 and an R-squared value of 1.0, showcasing the potential of data-driven academic assessment.
+### Churn Forecast Model 📉
+- Developed a robust churn prediction model to forecast customer attrition rates for a telecommunications company.
+- Demonstrated high predictive accuracy, with an F1 score of 0.63 and R2 scores of 76.69% for Random Forest Classifier, providing actionable insights into customer behavior.
