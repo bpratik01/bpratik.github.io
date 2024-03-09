@@ -33,5 +33,7 @@ I’m Pratik Bokade, a third-year B.Tech student specializing in Robotics and Ar
 - Developed a Streamlit app for real-time sentiment analysis visualization.
 
 ### Churn Forecast Model 📉
+- **GitHub:** [Check it out!](https://github.com/bpratik01/Churn-Forecast)
+
 - Developed a robust churn prediction model to forecast customer attrition rates for a telecommunications company.
 - Demonstrated high predictive accuracy, with an F1 score of 0.63 and R2 scores of 76.69% for Random Forest Classifier, providing actionable insights into customer behavior.
