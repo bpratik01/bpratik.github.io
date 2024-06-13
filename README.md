@@ -1,5 +1,3 @@
-Got it! Let's make it more authentic and reflective of who you are. Here's a revamped version:
-
 # Hello! 👋 I'm Pratik Bokade
 
 - **Location:** Nagpur, India
